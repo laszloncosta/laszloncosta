@@ -8,5 +8,6 @@
 
 🧑‍💼 After my academic world tour, I settled in as a Senior Software Developer at Atlantico Institute, slinging C++ code for an HP project from 2022 to 2024. In 2024, I leveled up to IT Project Manager at Atlantico, where I now manage the quests instead of just coding them. 
 
-🤓 When I'm not deep into projects, you can find me consuming an unhealthy amount of anime, movies, and games, or pondering the arcane arts of MIMO transceivers and convex optimization—because apparently, my brain never wants to rest.
+🧑‍🏫 And because every good hero needs to train an apprentice, I also dedicate part of my time to the noble art of teaching. As a professor at Federal Univerity of Cariri (UFCA), my mission is to turn complex topics like  into exciting quests for university students. It's my way of passing the torch of knowledge and inspiring the next 'final boss' of engineering.
 
+🤓 When I'm not deep into projects, you can find me consuming an unhealthy amount of anime, movies, and games, or pondering the arcane arts of MIMO transceivers and convex optimization—because apparently, my brain never wants to rest.
